@@ -1,6 +1,4 @@
-
-
-# Django Crud, Ajax, Login, Register,Dashboard Etc 
+# Django Crud, Ajax, Login, Register,Dashboard Etc
 
 ### Live demo Click Here
 
@@ -40,13 +38,14 @@
  10. python manage.py createsuperuser (enter username, email, password)
 
 
+
 ```
 
 # Dont't Forgot Give star and fork
 
 ## Screen Shots
 
-[![SB Admin Preview](https://https://github.com/mac0227/django-master/blob/master/screen_shots/1.png)](https://https://github.com/mac0227/django-master/)
+[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/1.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
 
 [![SB Admin Preview](https://https://github.com/mac0227/django-master/blob/master/screen_shots/2.png)](https://https://github.com/mac0227/django-master/)
 
